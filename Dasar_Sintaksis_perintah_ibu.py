@@ -24,4 +24,4 @@ if jumlah_butir_telur > 0:
     print('anak membeli 6 butir telur')
 
 print('anak kembali ke rumah')
-print('anak memberi hasilnya kepada ibu')
+print('anak memberikan hasilnya kepada ibu')
