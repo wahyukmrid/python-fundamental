@@ -1,6 +1,7 @@
 """
 program perulangan mambaca buku dengan while
 """
+
 jumlah_buku = 10
 print('ibu berkata, "baca semua bukumu"')
 
