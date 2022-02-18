@@ -13,7 +13,6 @@ for jumlah_buku_yang_sudah_dibaca in range(1, jumlah_buku+1):
 
 print(f'jumlah buku yang sudah di baca {jumlah_buku_yang_sudah_dibaca}')
 
-# tanpa for
 print('tanpa for')
 print('buku ke 1 sudah dibaca')
 print('buku ke 2 sudah dibaca')
