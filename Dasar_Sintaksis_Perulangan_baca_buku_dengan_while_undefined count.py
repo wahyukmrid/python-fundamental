@@ -2,6 +2,7 @@
 program perulangan mambaca buku dengan while sampai paham
 """
 
+
 jumlah_buku = 10
 print('ibu berkata, "baca semua bukumu"')
 jumlah_baca = 0
