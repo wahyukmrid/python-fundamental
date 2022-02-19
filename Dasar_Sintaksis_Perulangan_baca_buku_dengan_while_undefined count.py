@@ -21,5 +21,5 @@ print(f'jumlah buku yang sudah dibaca dan dipahami {jumlah_paham}')
 if jumlah_paham == jumlah_buku:
     print('bu, semua buku sudah dibaca dan dipahami')
 else:
-    print(f'"bu, tidak semua buku bisa dipahami.'
+    print(f'bu, tidak semua buku bisa dipahami.'
           f' saya hanya bisa memahami {jumlah_paham} buku')
