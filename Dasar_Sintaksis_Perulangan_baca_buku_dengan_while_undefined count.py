@@ -10,10 +10,10 @@ jumlah_baca = 0
 jumlah_paham = 0
 print(f'jumlah buku yang sudah di baca dan dipahami {jumlah_paham}')
 
-while jumlah_baca < jumlah_buku * 2:
+while jumlah_baca < jumlah_buku * 1:
     jumlah_baca = jumlah_baca + 1
     if jumlah_paham == 9:
-        print(f'buku ke {jumlah_paham + 1} belm paham')
+        print(f'buku ke {jumlah_paham + 1} belum paham')
     else:
         jumlah_paham = jumlah_paham + 1
         print(f'buku ke {jumlah_paham} sudah dibaca dan dipahami')
